@@ -1,0 +1,19 @@
+.twitter_box{border: 1px solid #cccccc; width: 100%; background-color: #FFFFFF; font-family: Arial, sans-serif;}
+.twitter_header{width: 100%; height: auto; margin: 0px; padding: 10px 0px 30px 0px;}
+.twitter_header .twitter_icon{float: left; margin: 0px 20px 0px 10px; padding: 0px;}
+.twitter_header .twitter_title{font-size: 16px;}
+.twitter_content{padding: 0px; margin: 0px; overflow-y: scroll; width: 100%;}
+.twitter_content .twitter_box01{width: 100%; float: left; margin: 0px 0px 10px 0px; padding: 0px; cursor: pointer;}
+.twitter_box01 .twitter_pic{float: left;}
+.twitter_box01 .twitter_pic a img{padding: 5px 5px 0px 5px; width: 45px; height: 40px;}
+.twitter_box01 .twitter_details_right{padding-top: 5px; width: auto; margin-left: 55px;}
+.twitter_box01 .twitter_details_right01{padding-top: 5px; margin-left: 10px; width: auto;}
+.twitter_small_ttl{width:100%; float:left; margin: 0px; padding: 0px; line-height: normal; font-size: 12px; display:block; word-wrap: break-word; cursor: pointer; text-decoration: none;}
+.twitter_small_ttl a{color:#737373;}
+.twitter_small_ttl span{width: 100%; float: left;}
+.twitter_fullname a{font-weight: bold; color: #292F33; padding-bottom: 5px; font-size: 14px;}
+.twitter_small_ttl .twitter_desc{font-size:14px; color: #262626; cursor: default;}
+.twitter_screenname{padding-top: 3px; padding-bottom: 5px;}
+.twitter_inner_a{color: #2B7BB9 !important;}
+.twitter_datetime{padding-top: 2px; padding-bottom: 2px;}
+.twitter_error_msg{width: 100%; float: left; padding: 18px; margin: 0px; color: red;}
